@@ -8,7 +8,7 @@ import { saveState, loadState } from "./inmutable";
 const persistedData = loadState();
 
 const store = createStore(
-  reducer,
+  reducer as any,
   persistedData,
   composeWithDevTools(applyMiddleware(thunk))
 );
