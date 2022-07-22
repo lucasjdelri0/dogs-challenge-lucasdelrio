@@ -1,0 +1,9 @@
+.headerContainer {
+  background: white;
+}
+.headerLogo {
+  font-size: 32px;
+}
+.headerMenuItem {
+  padding: 8px;
+}

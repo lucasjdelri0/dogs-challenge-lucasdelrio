@@ -1,0 +1,10 @@
+.breedList {
+  margin: 32px;
+}
+.breedListItem {
+  flex-direction: column;
+  width: 100%;
+}
+.breedButton {
+  width: 100%;
+}

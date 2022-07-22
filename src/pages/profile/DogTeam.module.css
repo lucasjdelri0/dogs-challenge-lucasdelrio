@@ -1,0 +1,13 @@
+.dogTeamRow {
+  margin: 24px;
+}
+.dogTeamList {
+  width: 100%;
+}
+.dogTeamListItem {
+  flex-direction: column;
+  width: 100%;
+}
+.dogTeamButton {
+  width: 100%;
+}
